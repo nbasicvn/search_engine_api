@@ -1,1 +1,7 @@
-# search_engine_api
+# Search Engine API
+
+Tech Stack:
+
+* Bleve
+* Gin
+* Golang
